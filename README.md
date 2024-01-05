@@ -28,8 +28,7 @@ Examines the distribution of courses posted per year.
 Data Visualization: The script uses Matplotlib to create visualizations for better insights into the dataset.
 
 Acknowledgments
-The dataset used in this analysis is sourced from Udemy (provide link or citation if available).
-Inspiration for this analysis may come from various online data science communities and forums.
+The dataset used in this analysis is sourced from Udemy (https://www.kaggle.com/datasets/andrewmvd/udemy-courses/data).
 Feel free to fork, modify, and adapt this script for your own projects. If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.
 
 Happy coding!
